@@ -1,4 +1,4 @@
-#modul 內存:變數.class.
+#modul 內存:變數.class.funstion
 import random
 def playgame():
     min = 1
