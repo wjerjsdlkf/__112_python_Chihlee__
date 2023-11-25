@@ -1,2 +1,17 @@
+pyInputPlus
+requests
+
+pandas
+https://pandas.pydata.org/docs/reference/index.html#ap
+
+fake-useragent#網路爬蟲片站台的使用名稱
+openpyxl
+SQLalchemy
+psycopg2
+
+numpy#這個會附在pandas裡面不用特別安裝
+#https://numpy.org/devdocs/reference/generated/numpy.array.html
+
+
 pip install -r requirements.txt
 python + jupyter
