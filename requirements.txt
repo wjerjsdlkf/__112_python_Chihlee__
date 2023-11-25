@@ -6,3 +6,4 @@ openpyxl
 SQLalchemy
 psycopg2
 numpy
+Jinja2

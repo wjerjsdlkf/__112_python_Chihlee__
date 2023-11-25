@@ -12,6 +12,8 @@ psycopg2
 numpy#這個會附在pandas裡面不用特別安裝
 #https://numpy.org/devdocs/reference/generated/numpy.array.html
 
+Jinja2
+#excel style
 
 pip install -r requirements.txt
 python + jupyter
