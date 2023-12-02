@@ -5,7 +5,10 @@ pandas
 https://pandas.pydata.org/docs/reference/index.html#ap
 
 fake-useragent#網路爬蟲片站台的使用名稱
+
 openpyxl
+#excel應用
+
 SQLalchemy
 psycopg2
 
@@ -14,6 +17,8 @@ numpy#這個會附在pandas裡面不用特別安裝
 
 Jinja2
 #excel style
+https://pandas.pydata.org/docs/user_guide/style.html
+
 
 pip install -r requirements.txt
 python + jupyter
