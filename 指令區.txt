@@ -1,10 +1,18 @@
 pyInputPlus
+#輸入類型
+
 requests
+#爬蟲
+
+fake-useragent
+#網路爬蟲片站台的使用名稱
+
+beautifulsoup4
+#下載HTML
+
 
 pandas
 https://pandas.pydata.org/docs/reference/index.html#ap
-
-fake-useragent#網路爬蟲片站台的使用名稱
 
 openpyxl
 #excel應用
