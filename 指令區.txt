@@ -19,6 +19,8 @@ Jinja2
 #excel style
 https://pandas.pydata.org/docs/user_guide/style.html
 
+matplotlib
+#用來修改資料顏色
 
 pip install -r requirements.txt
 python + jupyter
